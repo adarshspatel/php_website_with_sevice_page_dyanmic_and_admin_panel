@@ -14,3 +14,29 @@ Service List
 Service Add
 Service Edit
 Service Delete
+
+
+Static Website
+Home
+index.html
+
+About Us
+about.html
+
+Service
+service.html
+
+Contact
+contact.html
+
+database name: website1
+
+table name: 
+res_service_master
+smid
+sname
+
+res_adminlogin_master
+almid
+amobile
+apassword
